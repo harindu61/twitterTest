@@ -1,0 +1,323 @@
+D:\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\chromedriver.exe
+D:\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\IEDriverServer.exe
+D:\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\Property.config
+D:\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\TestLog.config
+D:\adra-match-autotests\SeShellTest\bin\debug\app.config
+D:\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll.config
+D:\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.pdb
+D:\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\nunit.framework.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.exe
+D:\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\WebDriver.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.pdb
+D:\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.xml
+D:\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.xml
+D:\adra-match-autotests\SeShellTest\bin\debug\nunit.framework.xml
+D:\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.xml
+D:\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.xml
+D:\adra-match-autotests\SeShellTest\bin\debug\WebDriver.xml
+D:\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.xml
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csprojResolveAssemblyReference.cache
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsAndStatusResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMCommonResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMFiscalYearsResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLandingResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLegalEntitiesResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLoginResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMPeriodsResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMUsersResources.resources
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csproj.GenerateResource.Cache
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.dll
+D:\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.pdb
+D:\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe
+D:\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe.config
+D:\adra-match-autotests\SeShellTest\bin\debug\nunit-console-runner.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\nunit.util.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\nunit.core.interfaces.dll
+D:\adra-match-autotests\SeShellTest\bin\debug\nunit.core.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\chromedriver.exe
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csprojResolveAssemblyReference.cache
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsAndStatusResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMCommonResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMFiscalYearsResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLandingResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLegalEntitiesResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLoginResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMPeriodsResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMUsersResources.resources
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csproj.GenerateResource.Cache
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\IEDriverServer.exe
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\Property.config
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\TestLog.config
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\app.config
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe.config
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll.config
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.pdb
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\nunit-console-runner.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.exe
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\WebDriver.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\nunit.util.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\nunit.core.interfaces.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\nunit.core.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.pdb
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.xml
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.xml
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.xml
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.xml
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\WebDriver.xml
+E:\SourceControl\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.xml
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.dll
+E:\SourceControl\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.pdb
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\chromedriver.exe
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\IEDriverServer.exe
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\Property.config
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\TestLog.config
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\app.config
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe.config
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll.config
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.pdb
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\nunit-console-runner.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.exe
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\WebDriver.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\nunit.util.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\nunit.core.interfaces.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\nunit.core.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.pdb
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.xml
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.xml
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.xml
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.xml
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\WebDriver.xml
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.xml
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csprojResolveAssemblyReference.cache
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsAndStatusResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMCommonResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMFiscalYearsResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLandingResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLegalEntitiesResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLoginResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMPeriodsResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMUsersResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csproj.GenerateResource.Cache
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.dll
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.pdb
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\chromedriver.exe
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\IEDriverServer.exe
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\Property.config
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\TestLog.config
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\app.config
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe.config
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll.config
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.pdb
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit-console-runner.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.exe
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\WebDriver.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.util.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.core.interfaces.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.core.dll
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.pdb
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.xml
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.xml
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.framework.xml
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.xml
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.xml
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\WebDriver.xml
+C:\Projects\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.xml
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csprojResolveAssemblyReference.cache
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsAndStatusResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMCommonResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMFiscalYearsResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLandingResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLegalEntitiesResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLoginResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMPeriodsResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMUsersResources.resources
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csproj.GenerateResource.Cache
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.dll
+C:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.pdb
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\chromedriver.exe
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\BrowserDrivers\IEDriverServer.exe
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\Property.config
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\Core\Settings\TestLog.config
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\app.config
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit-console.exe.config
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll.config
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.pdb
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit-console-runner.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.framework.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\WebDriver.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.util.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.core.interfaces.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.core.dll
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.pdb
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\Castle.Core.xml
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\DocumentFormat.OpenXml.xml
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\nunit.framework.xml
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\WebDriver.xml
+D:\Projects\adra-match-autotests\SeShellTest\bin\debug\WebDriver.Support.xml
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csprojResolveAssemblyReference.cache
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsAndStatusResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMCommonResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMFiscalYearsResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLandingResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLegalEntitiesResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMLoginResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMAccountsResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMPeriodsResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.Resources.AMUsersResources.resources
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.csproj.GenerateResource.Cache
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.dll
+D:\Projects\adra-match-autotests\SeShellTest\obj\Debug\SeShell.Test.pdb
+D:\Projects\SeShell\SeShellTest\bin\debug\BrowserDrivers\chromedriver.exe
+D:\Projects\SeShell\SeShellTest\bin\debug\BrowserDrivers\IEDriverServer.exe
+D:\Projects\SeShell\SeShellTest\bin\debug\Core\Settings\Property.config
+D:\Projects\SeShell\SeShellTest\bin\debug\Core\Settings\TestLog.config
+D:\Projects\SeShell\SeShellTest\bin\debug\app.config
+D:\Projects\SeShell\SeShellTest\bin\debug\nunit-console.exe
+D:\Projects\SeShell\SeShellTest\bin\debug\nunit-console.exe.config
+D:\Projects\SeShell\SeShellTest\bin\debug\SeShell.Test.dll.config
+D:\Projects\SeShell\SeShellTest\bin\debug\SeShell.Test.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\SeShell.Test.pdb
+D:\Projects\SeShell\SeShellTest\bin\debug\Castle.Core.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\DocumentFormat.OpenXml.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\nunit-console-runner.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\nunit.framework.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\SeShell\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\WebDriver.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\WebDriver.Support.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\nunit.util.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\nunit.core.interfaces.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\nunit.core.dll
+D:\Projects\SeShell\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.pdb
+D:\Projects\SeShell\SeShellTest\bin\debug\Castle.Core.xml
+D:\Projects\SeShell\SeShellTest\bin\debug\DocumentFormat.OpenXml.xml
+D:\Projects\SeShell\SeShellTest\bin\debug\nunit.framework.xml
+D:\Projects\SeShell\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\SeShell\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\SeShell\SeShellTest\bin\debug\WebDriver.xml
+D:\Projects\SeShell\SeShellTest\bin\debug\WebDriver.Support.xml
+D:\Projects\SeShell\SeShellTest\obj\Debug\SeShell.Test.csprojResolveAssemblyReference.cache
+D:\Projects\SeShell\SeShellTest\obj\Debug\SeShell.Test.Resources.FBLandingResources.resources
+D:\Projects\SeShell\SeShellTest\obj\Debug\SeShell.Test.Resources.FBLoginResources.resources
+D:\Projects\SeShell\SeShellTest\obj\Debug\SeShell.Test.Resources.FBNewsFeedResources.resources
+D:\Projects\SeShell\SeShellTest\obj\Debug\SeShell.Test.csproj.GenerateResource.Cache
+D:\Projects\SeShell\SeShellTest\obj\Debug\SeShell.Test.dll
+D:\Projects\SeShell\SeShellTest\obj\Debug\SeShell.Test.pdb
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\BrowserDrivers\chromedriver.exe
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\BrowserDrivers\IEDriverServer.exe
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\Core\Settings\Property.config
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\Core\Settings\TestLog.config
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\app.config
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\nunit-console.exe
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\nunit-console.exe.config
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.dll.config
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.pdb
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.dll.CodeAnalysisLog.xml
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.dll.lastcodeanalysissucceeded
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\Castle.Core.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\DocumentFormat.OpenXml.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\nunit-console-runner.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\nunit.framework.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\WebDriver.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\WebDriver.Support.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\nunit.util.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\nunit.core.interfaces.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\nunit.core.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.pdb
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\Castle.Core.xml
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\DocumentFormat.OpenXml.xml
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\nunit.framework.xml
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\WebDriver.xml
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\bin\debug\WebDriver.Support.xml
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.Resources.FBLandingResources.resources
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.Resources.FBLoginResources.resources
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.Resources.FBNewsFeedResources.resources
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.Resources.LoginPageResources.resources
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.dll
+D:\Projects\Visual Studio\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.pdb
+D:\AutomationFramework\SeShellTest\bin\debug\BrowserDrivers\chromedriver.exe
+D:\AutomationFramework\SeShellTest\bin\debug\BrowserDrivers\IEDriverServer.exe
+D:\AutomationFramework\SeShellTest\bin\debug\app.config
+D:\AutomationFramework\SeShellTest\bin\debug\Core\Settings\Property.config
+D:\AutomationFramework\SeShellTest\bin\debug\Core\Settings\TestLog.config
+D:\AutomationFramework\SeShellTest\bin\debug\nunit-console.exe
+D:\AutomationFramework\SeShellTest\bin\debug\nunit-console.exe.config
+D:\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.dll.config
+D:\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.dll
+D:\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.pdb
+D:\AutomationFramework\SeShellTest\bin\debug\Castle.Core.dll
+D:\AutomationFramework\SeShellTest\bin\debug\DocumentFormat.OpenXml.dll
+D:\AutomationFramework\SeShellTest\bin\debug\nunit-console-runner.dll
+D:\AutomationFramework\SeShellTest\bin\debug\nunit.framework.dll
+D:\AutomationFramework\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.dll
+D:\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.exe
+D:\AutomationFramework\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.dll
+D:\AutomationFramework\SeShellTest\bin\debug\WebDriver.dll
+D:\AutomationFramework\SeShellTest\bin\debug\WebDriver.Support.dll
+D:\AutomationFramework\SeShellTest\bin\debug\nunit.util.dll
+D:\AutomationFramework\SeShellTest\bin\debug\nunit.core.interfaces.dll
+D:\AutomationFramework\SeShellTest\bin\debug\nunit.core.dll
+D:\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.XMLTestResult.pdb
+D:\AutomationFramework\SeShellTest\bin\debug\Castle.Core.xml
+D:\AutomationFramework\SeShellTest\bin\debug\DocumentFormat.OpenXml.xml
+D:\AutomationFramework\SeShellTest\bin\debug\nunit.framework.xml
+D:\AutomationFramework\SeShellTest\bin\debug\Selenium.WebDriverBackedSelenium.xml
+D:\AutomationFramework\SeShellTest\bin\debug\ThoughtWorks.Selenium.Core.xml
+D:\AutomationFramework\SeShellTest\bin\debug\WebDriver.xml
+D:\AutomationFramework\SeShellTest\bin\debug\WebDriver.Support.xml
+D:\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.csprojResolveAssemblyReference.cache
+D:\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.Resources.LoginPageResources.resources
+D:\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.csproj.GenerateResource.Cache
+D:\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.dll
+D:\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.pdb
+D:\AutomationFramework\SeShellTest\obj\Debug\SeShell.Test.Resources.HomePageResources.resources

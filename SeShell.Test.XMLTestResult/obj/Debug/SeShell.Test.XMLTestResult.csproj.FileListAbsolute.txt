@@ -1,0 +1,62 @@
+D:\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe.config
+D:\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe
+D:\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.pdb
+D:\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.Resources.AMXMLTestResultResources.resources
+D:\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csproj.GenerateResource.Cache
+D:\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.exe
+D:\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.pdb
+D:\adra-match-autotests\SeShell.Test.XMLTestResult\obj\debug\SeShell.Test.XMLTestResult.csprojResolveAssemblyReference.cache
+E:\SourceControl\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe.config
+E:\SourceControl\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe
+E:\SourceControl\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.pdb
+E:\SourceControl\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.Resources.AMXMLTestResultResources.resources
+E:\SourceControl\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csproj.GenerateResource.Cache
+E:\SourceControl\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.exe
+E:\SourceControl\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.pdb
+E:\SourceControl\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csprojResolveAssemblyReference.cache
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe.config
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.pdb
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.Resources.AMXMLTestResultResources.resources
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csproj.GenerateResource.Cache
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.exe
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.pdb
+D:\TestAutomation\AdramatchAutoTest\adra-match-autotests\SeShell.Test.XMLTestResult\obj\debug\SeShell.Test.XMLTestResult.csprojResolveAssemblyReference.cache
+C:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe.config
+C:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe
+C:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.pdb
+C:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.Resources.AMXMLTestResultResources.resources
+C:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csproj.GenerateResource.Cache
+C:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.exe
+C:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.pdb
+C:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\debug\SeShell.Test.XMLTestResult.csprojResolveAssemblyReference.cache
+D:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe.config
+D:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.pdb
+D:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csprojResolveAssemblyReference.cache
+D:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csproj.GenerateResource.Cache
+D:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.pdb
+D:\Projects\adra-match-autotests\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.Resources.TestResultResources.resources
+D:\Projects\SeShell\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe.config
+D:\Projects\SeShell\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\SeShell\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.pdb
+D:\Projects\SeShell\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.Resources.TestResultResources.resources
+D:\Projects\SeShell\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csproj.GenerateResource.Cache
+D:\Projects\SeShell\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\SeShell\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.pdb
+D:\Projects\Visual Studio\AutomationFramework\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe.config
+D:\Projects\Visual Studio\AutomationFramework\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\Visual Studio\AutomationFramework\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.pdb
+D:\Projects\Visual Studio\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.Resources.TestResultResources.resources
+D:\Projects\Visual Studio\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.exe
+D:\Projects\Visual Studio\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.pdb
+D:\AutomationFramework\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe.config
+D:\AutomationFramework\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.exe
+D:\AutomationFramework\SeShell.Test.XMLTestResult\bin\Debug\SeShell.Test.XMLTestResult.pdb
+D:\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.Resources.TestResultResources.resources
+D:\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.csproj.GenerateResource.Cache
+D:\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.exe
+D:\AutomationFramework\SeShell.Test.XMLTestResult\obj\Debug\SeShell.Test.XMLTestResult.pdb
