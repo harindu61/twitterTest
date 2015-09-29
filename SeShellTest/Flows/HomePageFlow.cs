@@ -21,12 +21,9 @@ namespace SeShell.Test.Flows
 
         public void tweetMessage(String message)
         {
-            Utilities.WaitTillDisplayed(this.Driver, HtmlElementBy.Id, HomePage.newTweetButton());
-            Utilities.FindElement(this.Driver, HtmlElementBy.Id, HomePage.newTweetButton()).Click();
+            Utilities.WaitTillDisplayed(this.Driver, HtmlElementBy.XPath, HomePage.newTweetText());
 
-            Utilities.WaitTillDisplayed(this.Driver, HtmlElementBy.Id, HomePage.newTweetText());
-
-            IWebElement newTweetText = Utilities.FindElement(this.Driver, HtmlElementBy.Id, HomePage.newTweetText());
+            IWebElement newTweetText = Utilities.FindElement(this.Driver, HtmlElementBy.XPath, HomePage.newTweetText());
             Utilities.ClearElements(new IWebElement[] { newTweetText });
 
             newTweetText.SendKeys(message);

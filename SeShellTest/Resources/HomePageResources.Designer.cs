@@ -61,16 +61,7 @@ namespace SeShell.Test.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to global-new-tweet-button.
-        /// </summary>
-        internal static string newTweetButton {
-            get {
-                return ResourceManager.GetString("newTweetButton", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to tweet-box-global.
+        ///   Looks up a localized string similar to .//*[@id=&apos;u_0_12&apos;].
         /// </summary>
         internal static string newTweetText {
             get {
@@ -79,7 +70,7 @@ namespace SeShell.Test.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .//*[@id=&apos;stream-items-id&apos;]/li/div/div[2]/p.
+        ///   Looks up a localized string similar to .//*[@class=&apos;_5pbx userContent&apos;]/p.
         /// </summary>
         internal static string postedTweetText {
             get {
@@ -88,7 +79,7 @@ namespace SeShell.Test.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .//*[@id=&apos;global-tweet-dialog-dialog&apos;]/div[2]/div[4]/form/div[2]/div[2]/button.
+        ///   Looks up a localized string similar to .//*[@id=&apos;u_0_v&apos;]/div/div[5]/div/ul/li[2]/button.
         /// </summary>
         internal static string postNewTweetButton {
             get {
@@ -97,7 +88,7 @@ namespace SeShell.Test.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .//*[@id=&apos;page-container&apos;]/div[1]/div[1]/div/div[2]/span/a/span.
+        ///   Looks up a localized string similar to .//*[@id=&apos;pagelet_welcome_box&apos;]/ul/li[1]/div/div/a.
         /// </summary>
         internal static string verifyAccountName {
             get {

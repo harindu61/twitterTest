@@ -61,7 +61,7 @@ namespace SeShell.Test.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to //*[@id=&apos;front-container&apos;]/div[2]/div[2]/form/table/tbody/tr/td[2]/button.
+        ///   Looks up a localized string similar to .//*[@id=&apos;u_0_v&apos;].
         /// </summary>
         internal static string loginButtonXpath {
             get {
@@ -70,7 +70,7 @@ namespace SeShell.Test.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to signin-password.
+        ///   Looks up a localized string similar to pass.
         /// </summary>
         internal static string passwordTextboxId {
             get {
@@ -79,7 +79,7 @@ namespace SeShell.Test.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to signin-email.
+        ///   Looks up a localized string similar to email.
         /// </summary>
         internal static string usernameTextboxId {
             get {

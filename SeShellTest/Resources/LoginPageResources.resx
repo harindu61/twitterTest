@@ -118,12 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="loginButtonXpath" xml:space="preserve">
-    <value>//*[@id='front-container']/div[2]/div[2]/form/table/tbody/tr/td[2]/button</value>
+    <value>.//*[@id='u_0_v']</value>
   </data>
   <data name="passwordTextboxId" xml:space="preserve">
-    <value>signin-password</value>
+    <value>pass</value>
   </data>
   <data name="usernameTextboxId" xml:space="preserve">
-    <value>signin-email</value>
+    <value>email</value>
   </data>
 </root>

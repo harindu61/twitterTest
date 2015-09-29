@@ -117,19 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="newTweetButton" xml:space="preserve">
-    <value>global-new-tweet-button</value>
-  </data>
   <data name="newTweetText" xml:space="preserve">
-    <value>tweet-box-global</value>
+    <value>.//*[@id='u_0_12']</value>
   </data>
   <data name="postedTweetText" xml:space="preserve">
-    <value>.//*[@id='stream-items-id']/li/div/div[2]/p</value>
+    <value>.//*[@class='_5pbx userContent']/p</value>
   </data>
   <data name="postNewTweetButton" xml:space="preserve">
-    <value>.//*[@id='global-tweet-dialog-dialog']/div[2]/div[4]/form/div[2]/div[2]/button</value>
+    <value>.//*[@id='u_0_v']/div/div[5]/div/ul/li[2]/button</value>
   </data>
   <data name="verifyAccountName" xml:space="preserve">
-    <value>.//*[@id='page-container']/div[1]/div[1]/div/div[2]/span/a/span</value>
+    <value>.//*[@id='pagelet_welcome_box']/ul/li[1]/div/div/a</value>
   </data>
 </root>

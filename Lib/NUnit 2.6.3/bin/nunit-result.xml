@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.dll" total="2" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-09-29" time="12:52:02">
+  <environment nunit-version="2.6.3.13283" clr-version="4.0.30319.34003" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\AutomationFramework\Lib\NUnit 2.6.3\bin" machine-name="HARINDUM" user="HarinduM" user-domain="SERANET" />
+  <culture-info current-culture="en-US" current-uiculture="en-GB" />
+  <test-suite type="Assembly" name="D:\AutomationFramework\SeShellTest\bin\debug\SeShell.Test.dll" executed="True" result="Failure" success="False" time="90.117" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SeShell" executed="True" result="Failure" success="False" time="90.101" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Failure" success="False" time="90.101" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="TestCases" executed="True" result="Failure" success="False" time="90.101" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="LoginTest" executed="True" result="Failure" success="False" time="90.098" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="LoginTwitter" executed="True" result="Failure" success="False" time="51.723" asserts="0">
+                        <results>
+                          <test-case name="SeShell.Test.TestCases.LoginTest.LoginTwitter(SeShell.Test.TestData.Data.LoginData)" executed="True" result="Error" success="False" time="51.717" asserts="1">
+                            <failure>
+                              <message><![CDATA[System.AggregateException : One or more errors occurred.
+  ----> NUnit.Framework.AssertionException : ***** LoginTwitter Failed *****]]></message>
+                              <stack-trace><![CDATA[at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+at System.Threading.Tasks.Task.Wait()
+at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`2 body)
+at SeShell.Test.TestCases.LoginTest.LoginTwitter(LoginData data) in d:\AutomationFramework\SeShellTest\TestCases\LoginTest.cs:line 26
+--AssertionException
+at SeShell.Test.TestCases.LoginTest.<>c__DisplayClass1.<LoginTwitter>b__0(IWebDriver driver, ParallelLoopState loopState) in d:\AutomationFramework\SeShellTest\TestCases\LoginTest.cs:line 52
+at System.Threading.Tasks.Parallel.<>c__DisplayClassf`1.<ForWorker>b__c()
+at System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
+at System.Threading.Tasks.Task.<>c__DisplayClass11.<ExecuteSelfReplicating>b__10(Object param0)
+]]></stack-trace>
+                            </failure>
+                          </test-case>
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TweetMessage" executed="True" result="Success" success="True" time="38.357" asserts="0">
+                        <results>
+                          <test-case name="SeShell.Test.TestCases.LoginTest.TweetMessage(SeShell.Test.TestData.Data.TweetMessageData)" executed="True" result="Success" success="True" time="38.357" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="TestSuite" executed="True" result="Inconclusive" success="False" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

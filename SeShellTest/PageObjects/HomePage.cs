@@ -15,11 +15,6 @@ namespace SeShell.Test.PageObjects
             return HomePageResources.verifyAccountName;
         }
 
-        public static String newTweetButton()
-        {
-            return HomePageResources.newTweetButton;
-        }
-
         public static String newTweetText()
         {
             return HomePageResources.newTweetText;
