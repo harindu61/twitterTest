@@ -61,11 +61,7 @@ namespace SeShell.Test.Resources {
         }
         
         /// <summary>
-<<<<<<< HEAD
-        ///   Looks up a localized string similar to .//*[@id=&apos;loginbutton&apos;].
-=======
         ///   Looks up a localized string similar to .//*[@id=&apos;u_0_v&apos;].
->>>>>>> 59d394d140868740ff26a3b297ba85397c2b0307
         /// </summary>
         internal static string loginButtonXpath {
             get {

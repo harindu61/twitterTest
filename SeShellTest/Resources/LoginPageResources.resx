@@ -118,11 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="loginButtonXpath" xml:space="preserve">
-<<<<<<< HEAD
-    <value>.//*[@id='loginbutton']</value>
-=======
     <value>.//*[@id='u_0_v']</value>
->>>>>>> 59d394d140868740ff26a3b297ba85397c2b0307
   </data>
   <data name="passwordTextboxId" xml:space="preserve">
     <value>pass</value>
